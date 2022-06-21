@@ -1,3 +1,4 @@
 # DATA ENGINEERING ASSIGNMENT
 
-To execute the it, run each cell by using `SHIFT + ENTER` on jupyter.
+Please refer to the Notebook for details.
+To execute the the code, run each cell by using `SHIFT + ENTER` on jupyter.
